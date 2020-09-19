@@ -1,6 +1,3 @@
-# Pair-Game
-Final Project Pemprograman Dasar
-
 <h1>Laporan Final Project Pemrograman Dasar</h1>
 
 <h2>Latar Belakang</h2>
